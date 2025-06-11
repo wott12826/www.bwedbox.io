@@ -37,6 +37,7 @@
     display: inline-block;
     animation: horizontal-scroll 25s linear infinite;
     white-space: nowrap;
+    color: var(--color, #000);
 }
 
 .E4e8xh.JA80dz {
@@ -50,13 +51,15 @@
     100% { transform: translateX(-100%); }
 }
 
-/* Hide duplicate text */
-.IM2bJh[data-text]:before {
-    display: none;
+/* Show all text instances for continuous marquee */
+.IM2bJh {
+    display: inline-block;
+    font-size: 1em;
+    height: calc(var(--font-size, 1em) * 1.2);
 }
 
-/* Show only the first instance of text */
-.IM2bJh:not([data-text]) {
+.IM2bJh[data-text]:before {
+    content: attr(data-text);
     display: inline-block;
 }
 
@@ -100,11 +103,6 @@
 
 .lxWnDa {
     align-items: center;
-}
-
-.IM2bJh {
-    font-size: 1em;
-    height: calc(var(--font-size, 1em) * 1.2);
 }
 
 .IM2bJh:has(svg) {

@@ -17,6 +17,13 @@
     }
 }
 
+/* Main container animation */
+.comp-m19mvzqn {
+    animation: t5ZvAv 1s ease-out 0.3s both;
+    display: block;
+    width: 100%;
+}
+
 /* Marquee styles */
 .JA80dz {
     display: flex;
@@ -27,7 +34,6 @@
     color: var(--color, #000);
     gap: 0;
     overflow-x: clip;
-    animation: t5ZvAv 1s ease-out 0.3s both;
 }
 
 @supports not (overflow-x: clip) {

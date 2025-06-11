@@ -12,6 +12,9 @@
 
 .comp-m19mdcqn {
     animation: t5ZvAv 1s ease-out 0.3s both;
+    display: block;
+    text-align: center;
+    width: 100%;
 }
 
 /* Original marquee animation */
@@ -23,20 +26,16 @@
 
 /* Marquee styles */
 .JA80dz {
-    display: flex;
-    gap: var(--spaceBetweenItems, 10px);
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
 .LZUzlM {
     color: var(--color, #000);
-    gap: 0;
-    overflow-x: clip;
-}
-
-@supports not (overflow-x: clip) {
-    .LZUzlM {
-        overflow: hidden;
-    }
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
 .hMq4aN {
@@ -53,7 +52,9 @@
 
 .E4e8xh {
     font: var(--font);
-    padding-right: var(--spaceBetweenItems, 10px);
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
 .E4e8xh[data-marquee-animation=left],
@@ -83,7 +84,9 @@
 
 .IM2bJh {
     font-size: 1em;
-    height: calc(var(--font-size, 1em) * 1.2);
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
 .IM2bJh:has(svg) {

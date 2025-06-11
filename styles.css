@@ -44,7 +44,7 @@
 
 .LZUzlM.JA80dz {
     display: inline-block;
-    animation: horizontal-scroll 25s linear infinite;
+    animation: marquee 15s linear infinite;
     white-space: nowrap;
     color: var(--color, #000);
     background: transparent;
@@ -52,28 +52,30 @@
 
 .E4e8xh.JA80dz {
     display: inline-block;
-    animation: horizontal-scroll 25s linear infinite;
-    animation-delay: -12.5s;
+    animation: marquee 15s linear infinite;
+    animation-delay: -7.5s;
     background: transparent;
 }
 
-@keyframes horizontal-scroll {
-    0% { transform: translateX(100%); }
-    100% { transform: translateX(-100%); }
+@keyframes marquee {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(-100%);
+    }
 }
 
 /* Show all text instances for continuous marquee */
 .IM2bJh {
-    display: inline-block;
     font-size: 1em;
-    height: calc(var(--font-size, 1em) * 1.2);
-    background: transparent;
+    line-height: 1.2;
+    display: inline-block;
 }
 
 .IM2bJh[data-text]:before {
     content: attr(data-text);
     display: inline-block;
-    background: transparent;
 }
 
 .hMq4aN {
@@ -142,14 +144,13 @@
 }
 
 .WGSppx {
-    background: transparent !important;
-    direction: var(--text-direction, ltr);
+    background: transparent;
+    direction: ltr;
     display: block;
-    font: var(--font);
-    letter-spacing: var(--letter-spacing, none);
-    -webkit-text-decoration: var(--font-decoration, none);
-    text-decoration: var(--font-decoration, none);
-    text-transform: var(--text-transform, none);
+    font: inherit;
+    letter-spacing: normal;
+    text-decoration: none;
+    text-transform: none;
 }
 
 .pVF6AJ:not(:focus):not(:active) {
@@ -186,4 +187,52 @@
     .E4e8xh {
         --marquee-animation-state: paused;
     }
+}
+
+/* Marquee Container */
+.marquee-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    background: transparent;
+    height: 50px; /* Фиксированная высота для контейнера */
+}
+
+/* Marquee Content */
+.marquee-content {
+    position: absolute;
+    white-space: nowrap;
+    animation: marquee 15s linear infinite;
+    left: 0;
+    top: 0;
+}
+
+.marquee-content.second {
+    left: 100%; /* Начинает справа */
+    animation: marquee 15s linear infinite;
+}
+
+/* Text Style */
+.marquee-text {
+    font-size: 24px;
+    font-weight: bold;
+    color: #000;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.marquee-container {
+    animation: fadeIn 1s ease-out 0.3s both;
 } 

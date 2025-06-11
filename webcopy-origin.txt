@@ -1,0 +1,324 @@
+Uri: https://browser.sentry-cdn.com/7.120.3/modulemetadata.es5.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\7.120.3\modulemetadata.es5.min.js
+Content Type: application/javascript
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"cacc7ff0-c784-4d86-a09b-c40ee94fd34a":"21"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.cssInBlocks%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.dynamicSlots%2C.fileUploaderNameListMinHeight%2C.fiveGridLineStudioSkins%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.overflowXClipInMobile%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.shouldUseResponsiveImages%2C.sliderGalleryWAAPI%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig={"siteRevision":"4"%2C"branchId":"6f8c95ca-9618-4e2f-9073-e26788a8756d"}&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.4802.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.bwedbox.io&fileId=74b416fa.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=pt&languageResolutionMethod=QueryParam&metaSiteId=d799167b-4883-404a-ae8b-edac09265391&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=pt&pageId=b0be74_b5666dc07e767779ac959bac8c845e7e_2.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=23237115-a739-407e-aa6e-1d3812231ed6&siteRevision=4&staticHTMLComponentUrl=https:%2F%2Fwww-bwedbox-io.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\pages\pages\thunderbolt-1
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"cacc7ff0-c784-4d86-a09b-c40ee94fd34a":"21"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.DisableDocumentScrollWhenLightBoxOpen%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.cssInBlocks%2C.dataBindingInMasterResponsive%2C.dropAppsClientSpecMapByApplicationId%2C.dynamicSlots%2C.fileUploaderNameListMinHeight%2C.fiveGridLineStudioSkins%2C.imageEncodingAVIF%2C.isClassNameToRootEnabled%2C.overflowXClipInMobile%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.shouldUseResponsiveImages%2C.sliderGalleryWAAPI%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig={"siteRevision":"4"%2C"branchId":"6f8c95ca-9618-4e2f-9073-e26788a8756d"}&contentType=application%2Fjson&deviceType=Other&dfCk=6&dfVersion=1.4802.0&disableStaticPagesUrlHierarchy=false&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.bwedbox.io&fileId=74b416fa.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isMultilingualEnabled=false&isPremiumDomain=true&isResponsive=true&isTrackClicksAnalyticsEnabled=false&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=pt&languageResolutionMethod=QueryParam&metaSiteId=d799167b-4883-404a-ae8b-edac09265391&module=thunderbolt-features&oneDocEnabled=true&originalLanguage=pt&pageId=b0be74_f6587f628a90356855ace69c908291b7_3.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=23237115-a739-407e-aa6e-1d3812231ed6&siteRevision=4&staticHTMLComponentUrl=https:%2F%2Fwww-bwedbox-io.filesusr.com%2F&useSandboxInHTMLComp=false&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\pages\pages\thunderbolt
+Content Type: application/json
+
+Uri: https://siteassets.parastorage.com/pages/pages/thunderbolt?appDefinitionIdToSiteRevision={"cacc7ff0-c784-4d86-a09b-c40ee94fd34a":"21"%2C"14271d6f-ba62-d045-549b-ab972ae1f70e":"25"}&beckyExperiments=.DatePickerPortal%2C.EnableCustomCSSVarsForLoginSocialBar%2C.LoginBarEnableLoggingInStateInSSR%2C.TextInputAutoFillFix%2C.WixFreeSiteBannerDesktop%2C.WixFreeSiteBannerMobile%2C.buttonUdp%2C.calculateCollapsibleTextLineHeightByFont%2C.classicPaginationAsList%2C.dataBindingInMasterResponsive%2C.dynamicSlots%2C.fileUploaderNameListMinHeight%2C.fiveGridLineStudioSkins%2C.isClassNameToRootEnabled%2C.overflowXClipInMobile%2C.runSvgLoaderFeatureOnBreadcrumbsComp%2C.updateRichTextSemanticClassNamesOnCorvid%2C.useImageAvifFormatInNativeProGallery&blocksBuilderManifestGeneratorVersion=1.129.0&commonConfig={"siteRevision":"4"%2C"branchId":"6f8c95ca-9618-4e2f-9073-e26788a8756d"}&contentType=application%2Fjson&dfCk=6&dfVersion=1.4802.0&editorName=Studio&experiments=dm_bgScrubToMotionFixer%2Cdm_deleteLayoutOverridesForRefComponents%2Cdm_migrateOldHoverBoxToNewFixer&externalBaseUrl=https:%2F%2Fwww.bwedbox.io&fileId=8eadbf95.bundle.min&formFactor=desktop&hasTPAWorkerOnSite=false&isHttps=true&isInSeo=false&isPremiumDomain=true&isResponsive=true&isUrlMigrated=true&isWixCodeOnPage=true&isWixCodeOnSite=true&language=pt&metaSiteId=d799167b-4883-404a-ae8b-edac09265391&module=thunderbolt-platform&oneDocEnabled=true&originalLanguage=pt&pageId=b0be74_b5666dc07e767779ac959bac8c845e7e_2.json&quickActionsMenuEnabled=false&registryLibrariesTopology=[{"artifactId":"editor-elements"%2C"namespace":"wixui"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}%2C{"artifactId":"editor-elements"%2C"namespace":"dsgnsys"%2C"url":"https:%2F%2Fstatic.parastorage.com%2Fservices%2Feditor-elements%2F1.13931.0"}]&remoteWidgetStructureBuilderVersion=1.251.0&siteId=23237115-a739-407e-aa6e-1d3812231ed6&siteRevision=4&staticHTMLComponentUrl=https:%2F%2Fwww-bwedbox-io.filesusr.com%2F&viewMode=desktop
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\pages\pages\thunderbolt-2
+Content Type: application/json
+
+Uri: https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/madefor-text.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\19247d19-0454-4de8-b907-b818135794bd\madefor-text.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/19247d19-0454-4de8-b907-b818135794bd/v1/madefor-text.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\19247d19-0454-4de8-b907-b818135794bd\v1\madefor-text.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/26656ec7-c27d-4bdc-a9f4-6b498bbfad69/madefor-display.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\26656ec7-c27d-4bdc-a9f4-6b498bbfad69\madefor-display.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.greek.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.greek.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.math.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/6224d336-6e82-444d-8568-2a9861972c0a/v1/helveticaneuew10-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\6224d336-6e82-444d-8568-2a9861972c0a\v1\helveticaneuew10-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.cyrillic.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.cyrillic.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.greek.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.greek.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.math.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/68b86ae9-7ca0-48cc-b777-6559005a8f94/v1/helveticaneuew10-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\68b86ae9-7ca0-48cc-b777-6559005a8f94\v1\helveticaneuew10-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/7656dffe-e48a-4387-bcf9-cd96060a10ca/v1/helveticaneuew01-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\7656dffe-e48a-4387-bcf9-cd96060a10ca\v1\helveticaneuew01-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.math.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/767cfde1-9b34-4617-9789-907f19f2ae93/v1/helveticaneuew02-65medi.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\767cfde1-9b34-4617-9789-907f19f2ae93\v1\helveticaneuew02-65medi.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/790166f1-b347-4f16-8a29-f0c4931a7c35/v1/futura-lt-w01-book.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\790166f1-b347-4f16-8a29-f0c4931a7c35\v1\futura-lt-w01-book.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.math.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.math.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/bcaffff6-40a1-4827-ace9-c65e93f5fb5f/v1/helveticaneuew02-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\bcaffff6-40a1-4827-ace9-c65e93f5fb5f\v1\helveticaneuew02-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin-ext.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.latin-ext.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.latin.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.latin.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/e333842f-0a84-43f9-9ab7-fb1093ba1628/v1/helveticaneuew01-45ligh.other.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\e333842f-0a84-43f9-9ab7-fb1093ba1628\v1\helveticaneuew01-45ligh.other.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w01-light.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w01-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w02-light.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w02-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/eca8b0cd-45d8-43cf-aee7-ca462bc5497c/v1/din-next-w10-light.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\eca8b0cd-45d8-43cf-aee7-ca462bc5497c\v1\din-next-w10-light.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/madefor-text.var.original.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\f73e760d-c6b3-4659-9a8c-9ce1d76c1173\madefor-text.var.original.woff2
+Content Type: woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f73e760d-c6b3-4659-9a8c-9ce1d76c1173/v1/madefor-text.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\f73e760d-c6b3-4659-9a8c-9ce1d76c1173\v1\madefor-text.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/fonts/v2/f7531dde-c39a-485c-a204-c09154e8d163/v1/madefor-display-bold.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\fonts\v2\f7531dde-c39a-485c-a204-c09154e8d163\v1\madefor-display-bold.woff2
+Content Type: font/woff2
+
+Uri: https://static.parastorage.com/services/tag-manager-client/1.920.0/siteTags.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\services\tag-manager-client\1.920.0\siteTags.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/browser-deprecation.bundle.es5.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\services\wix-thunderbolt\dist\browser-deprecation.bundle.es5.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.7120cb19.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\services\wix-thunderbolt\dist\main.7120cb19.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/main.renderer.f600e767.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\services\wix-thunderbolt\dist\main.renderer.f600e767.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/services/wix-thunderbolt/dist/thunderbolt-commons.6e36e998.bundle.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\services\wix-thunderbolt\dist\thunderbolt-commons.6e36e998.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/core-js-bundle@3.2.1/minified.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\unpkg\core-js-bundle@3.2.1\minified.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/focus-within-polyfill@5.0.9/dist/focus-within-polyfill.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\unpkg\focus-within-polyfill@5.0.9\dist\focus-within-polyfill.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/lodash@4.17.21/lodash.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\unpkg\lodash@4.17.21\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react-dom@18.3.1/umd/react-dom.production.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\unpkg\react-dom@18.3.1\umd\react-dom.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.parastorage.com/unpkg/react@18.3.1/umd/react.production.min.js
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\unpkg\react@18.3.1\umd\react.production.min.js
+Content Type: application/javascript
+
+Uri: https://static.wixstatic.com/media/9c96c4_b109e5afc93a43ecb66a617e743f0b91~mv2.png/v1/fill/w_55,h_50,al_c,q_85,blur_3,enc_avif,quality_auto/GettyImages-1823979425_b.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\9c96c4_b109e5afc93a43ecb66a617e743f0b91~mv2.png\v1\fill\w_55,h_50,al_c,q_85,blur_3,enc_avif,quality_auto\GettyImages-1823979425_b.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9c96c4_d7d2a729ac0e4543a69d69bcafd8bd16~mv2.png/v1/fill/w_126,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/9c96c4_d7d2a729ac0e4543a69d69bcafd8bd16~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\9c96c4_d7d2a729ac0e4543a69d69bcafd8bd16~mv2.png\v1\fill\w_126,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\9c96c4_d7d2a729ac0e4543a69d69bcafd8bd16~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg/v1/fill/w_100,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg\v1\fill\w_100,h_71,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg/v1/fill/w_147,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/NEW_IMG_3506-2 1.jpeg
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\9c96c4_ea998e4bc5af4990a077b0b6e912b219~mv2.jpeg\v1\fill\w_147,h_105,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\NEW_IMG_3506-2 1.jpeg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg/v1/fill/w_150,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg\v1\fill\w_150,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg
+Content Type: image/jpeg
+
+Uri: https://static.wixstatic.com/media/b0be74_293d2507f16346378b76514f9995a7da~mv2.png/v1/fill/w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/botão2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_293d2507f16346378b76514f9995a7da~mv2.png\v1\fill\w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\botão2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png\v1\fill\w_192,h_192,lg_1,usm_0.66_1.00_0.01\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png\v1\fill\w_32,h_32,lg_1,usm_0.66_1.00_0.01\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_49220a094b5842d7822fb9f34da7ffc9~mv2.png/v1/fill/w_122,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/01_ Create a wallet.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_49220a094b5842d7822fb9f34da7ffc9~mv2.png\v1\fill\w_122,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\01_ Create a wallet.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_4f8e4f050d9047da874ea10d5f63e45e~mv2.png/v1/fill/w_160,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/b0be74_4f8e4f050d9047da874ea10d5f63e45e~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_4f8e4f050d9047da874ea10d5f63e45e~mv2.png\v1\fill\w_160,h_40,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\b0be74_4f8e4f050d9047da874ea10d5f63e45e~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_53653d0a3ff04fe6988024bbebe9d3a5~mv2.png/v1/fill/w_116,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/how to buy.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_53653d0a3ff04fe6988024bbebe9d3a5~mv2.png\v1\fill\w_116,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\how to buy.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_560b1f8d7dac4806a922065829c01cd5~mv2.png/v1/fill/w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Group 13.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_560b1f8d7dac4806a922065829c01cd5~mv2.png\v1\fill\w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\Group 13.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_6c2a3add0420402fa359b0495b59b1e2~mv2.png/v1/fill/w_49,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/From the trenches came together a team so based%2C a new meta%2C so fresh%2C baking art and hot .png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_6c2a3add0420402fa359b0495b59b1e2~mv2.png\v1\fill\w_49,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\From the trenches came together a team so based, a new meta, so fresh, baking art and.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_8f8291fecca54e2d9af7b1a1f06b81dc~mv2.png/v1/fill/w_110,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/%24BWEDNOMICS.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_8f8291fecca54e2d9af7b1a1f06b81dc~mv2.png\v1\fill\w_110,h_17,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\$BWEDNOMICS.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_948f1c1b170e40a68da0cd05dbf05250~mv2.png/v1/fill/w_121,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/04_ SWAP FOR %24BWED.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_948f1c1b170e40a68da0cd05dbf05250~mv2.png\v1\fill\w_121,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\04_ SWAP FOR $BWED.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_ac309e65534b4895b5a503ba5b8a7085~mv2.png/v1/crop/x_339,y_165,w_1731,h_1903/fill/w_45,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/b0be74_ac309e65534b4895b5a503ba5b8a7085~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_ac309e65534b4895b5a503ba5b8a7085~mv2.png\v1\crop\x_339,y_165,w_1731,h_1903\fill\w_45,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\b0be74_ac309e65534b4895b5a503ba5b8a7085~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_b637d4a4d500401fa072bf73606e5372~mv2.png/v1/fill/w_103,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/02_ get some sol.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_b637d4a4d500401fa072bf73606e5372~mv2.png\v1\fill\w_103,h_14,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\02_ get some sol.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_ba8e435083d34582a55c77b53cc46bc4~mv2.png/v1/fill/w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/base.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_ba8e435083d34582a55c77b53cc46bc4~mv2.png\v1\fill\w_49,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\base.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png/v1/fill/w_100,h_56,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png\v1\fill\w_100,h_56,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_f212e539e68e472ab7f72035a39a9208~mv2.png/v1/fill/w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/botão1.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_f212e539e68e472ab7f72035a39a9208~mv2.png\v1\fill\w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\botão1.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_f74cf1dfbee544f79c0ff7557dd3da0d~mv2.png/v1/fill/w_106,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/03_ go to jupiter.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_f74cf1dfbee544f79c0ff7557dd3da0d~mv2.png\v1\fill\w_106,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\03_ go to jupiter.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_fd766b3689334786958315dd420523c5~mv2.png/v1/fill/w_118,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/About BWED.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_fd766b3689334786958315dd420523c5~mv2.png\v1\fill\w_118,h_25,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\About BWED.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/media/b0be74_fee8e8974c194ec4b94fb2dc1bf7686e~mv2.png/v1/fill/w_49,h_3,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/Stack dat %24BWED or you’ll be TWOST_.png
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_fee8e8974c194ec4b94fb2dc1bf7686e~mv2.png\v1\fill\w_49,h_3,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\Stack dat $BWED or you’ll be TWOST_.png
+Content Type: image/png
+
+Uri: https://static.wixstatic.com/ufonts/5c76a5_bb1eb71f213f40b0a7896a1fce67bd32/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\5c76a5_bb1eb71f213f40b0a7896a1fce67bd32\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/5c76a5_bb1eb71f213f40b0a7896a1fce67bd32/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\5c76a5_bb1eb71f213f40b0a7896a1fce67bd32\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/5c76a5_bb1eb71f213f40b0a7896a1fce67bd32/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\5c76a5_bb1eb71f213f40b0a7896a1fce67bd32\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://static.wixstatic.com/ufonts/e9d1e4_b9a75dd5f021474e9f252a592e5529e8/ttf/file.ttf
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\e9d1e4_b9a75dd5f021474e9f252a592e5529e8\ttf\file.ttf
+Content Type: application/octet-stream
+
+Uri: https://static.wixstatic.com/ufonts/e9d1e4_b9a75dd5f021474e9f252a592e5529e8/woff/file.woff
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\e9d1e4_b9a75dd5f021474e9f252a592e5529e8\woff\file.woff
+Content Type: font/woff
+
+Uri: https://static.wixstatic.com/ufonts/e9d1e4_b9a75dd5f021474e9f252a592e5529e8/woff2/file.woff2
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\ufonts\e9d1e4_b9a75dd5f021474e9f252a592e5529e8\woff2\file.woff2
+Content Type: font/woff2
+
+Uri: https://www.bwedbox.io/
+File Name: C:\Downloaded Web Sites\www.bwedbox.io\index.htm
+Content Type: text/html
+

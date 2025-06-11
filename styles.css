@@ -25,21 +25,39 @@
 }
 
 /* Marquee styles */
-.JA80dz {
-    display: flex;
-    gap: var(--spaceBetweenItems, 10px);
+.ACdreM.wixui-text-marquee {
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+    position: relative;
+    animation: t5ZvAv 1s ease-out 0.3s both;
 }
 
-.LZUzlM {
-    color: var(--color, #000);
-    gap: 0;
-    overflow-x: clip;
+.LZUzlM.JA80dz {
+    display: inline-block;
+    animation: horizontal-scroll 25s linear infinite;
+    white-space: nowrap;
 }
 
-@supports not (overflow-x: clip) {
-    .LZUzlM {
-        overflow: hidden;
-    }
+.E4e8xh.JA80dz {
+    display: inline-block;
+    animation: horizontal-scroll 25s linear infinite;
+    animation-delay: -12.5s;
+}
+
+@keyframes horizontal-scroll {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
+
+/* Hide duplicate text */
+.IM2bJh[data-text]:before {
+    display: none;
+}
+
+/* Show only the first instance of text */
+.IM2bJh:not([data-text]) {
+    display: inline-block;
 }
 
 .hMq4aN {
@@ -97,10 +115,6 @@
     display: block;
     height: 100%;
     width: auto;
-}
-
-.IM2bJh[data-text]:before {
-    content: attr(data-text);
 }
 
 .IM2bJh span,

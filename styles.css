@@ -31,15 +31,15 @@
     width: 100%;
     position: relative;
     animation: t5ZvAv 1s ease-out 0.3s both;
+    background: transparent;
 }
 
 .Otzv5f {
     all: unset;
     display: block;
     width: 100%;
-    max-width: 1200px;
-    margin: 0 auto;
     position: relative;
+    background: transparent;
 }
 
 .LZUzlM.JA80dz {
@@ -47,12 +47,14 @@
     animation: horizontal-scroll 25s linear infinite;
     white-space: nowrap;
     color: var(--color, #000);
+    background: transparent;
 }
 
 .E4e8xh.JA80dz {
     display: inline-block;
     animation: horizontal-scroll 25s linear infinite;
     animation-delay: -12.5s;
+    background: transparent;
 }
 
 @keyframes horizontal-scroll {
@@ -65,11 +67,13 @@
     display: inline-block;
     font-size: 1em;
     height: calc(var(--font-size, 1em) * 1.2);
+    background: transparent;
 }
 
 .IM2bJh[data-text]:before {
     content: attr(data-text);
     display: inline-block;
+    background: transparent;
 }
 
 .hMq4aN {
@@ -138,7 +142,7 @@
 }
 
 .WGSppx {
-    background-color: var(--textHighlight, none);
+    background: transparent !important;
     direction: var(--text-direction, ltr);
     display: block;
     font: var(--font);

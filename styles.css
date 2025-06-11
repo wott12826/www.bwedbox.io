@@ -1,5 +1,5 @@
 /* Fade-in and Slide-up Animation */
-@keyframes fadeInSlideUp {
+@keyframes t5ZvAv {
     0% {
         opacity: 0;
         transform: translateY(20px);
@@ -11,5 +11,155 @@
 }
 
 .comp-m19mdcqn {
-    animation: fadeInSlideUp 1s ease-out 0.3s both;
+    animation: t5ZvAv 1s ease-out 0.3s both;
+}
+
+/* Original marquee animation */
+@keyframes lRIHuV {
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+/* Marquee styles */
+.JA80dz {
+    display: flex;
+    gap: var(--spaceBetweenItems, 10px);
+}
+
+.LZUzlM {
+    color: var(--color, #000);
+    gap: 0;
+    overflow-x: clip;
+}
+
+@supports not (overflow-x: clip) {
+    .LZUzlM {
+        overflow: hidden;
+    }
+}
+
+.hMq4aN {
+    display: block;
+}
+
+.hMq4aN:focus .E4e8xh {
+    animation-play-state: paused;
+}
+
+.Otzv5f {
+    all: unset;
+}
+
+.E4e8xh {
+    font: var(--font);
+    padding-right: var(--spaceBetweenItems, 10px);
+}
+
+.E4e8xh[data-marquee-animation=left],
+.E4e8xh[data-marquee-animation=right] {
+    animation-duration: var(--marquee-duration, 40s);
+    animation-iteration-count: infinite;
+    animation-play-state: var(--marquee-clicked, var(--marquee-animation-state, paused));
+    animation-timing-function: linear;
+}
+
+.E4e8xh[data-marquee-animation=right] {
+    animation-name: t5ZvAv;
+}
+
+.E4e8xh[data-marquee-animation=left] {
+    animation-name: lRIHuV;
+}
+
+.ACdreM:hover .XkxyTV {
+    --marquee-clicked: paused;
+    --marquee-animation-state: paused;
+}
+
+.lxWnDa {
+    align-items: center;
+}
+
+.IM2bJh {
+    font-size: 1em;
+    height: calc(var(--font-size, 1em) * 1.2);
+}
+
+.IM2bJh:has(svg) {
+    height: calc(var(--separator-scale, 1) * var(--font-size, 1em) * 1.2);
+}
+
+.IM2bJh svg {
+    display: block;
+    height: 100%;
+    width: auto;
+}
+
+.IM2bJh[data-text]:before {
+    content: attr(data-text);
+}
+
+.IM2bJh span,
+.IM2bJh:before {
+    display: block;
+    font-size: var(--font-size, 1em);
+    line-height: 1.2;
+    white-space: pre;
+}
+
+.GvLR4M svg {
+    --svg-color-1: var(--separatorFillColor, #fff);
+}
+
+.GvLR4M svg,
+.GvLR4M svg [data-color="1"] {
+    fill: var(--svg-color-1);
+}
+
+.WGSppx {
+    background-color: var(--textHighlight, none);
+    direction: var(--text-direction, ltr);
+    display: block;
+    font: var(--font);
+    letter-spacing: var(--letter-spacing, none);
+    -webkit-text-decoration: var(--font-decoration, none);
+    text-decoration: var(--font-decoration, none);
+    text-transform: var(--text-transform, none);
+}
+
+.pVF6AJ:not(:focus):not(:active) {
+    clip: rect(0 0 0 0);
+    border: 0;
+    height: auto;
+    margin: 0;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+}
+
+.gShssj {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 50%;
+    color: #000;
+    display: flex;
+    height: 24px;
+    justify-content: center;
+    left: 50%;
+    outline: 1px solid #000;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%) rotate(calc(var(--comp-rotate-z, 0deg) * -1));
+    width: 24px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .E4e8xh {
+        --marquee-animation-state: paused;
+    }
 } 

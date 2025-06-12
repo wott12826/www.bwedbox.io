@@ -218,9 +218,7 @@ Uri: https://static.wixstatic.com/media/b0be74_256b2f90b4c647ffbe916f1d7452760a~
 File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg\v1\fill\w_150,h_90,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\b0be74_256b2f90b4c647ffbe916f1d7452760a~mv2.jpg
 Content Type: image/jpeg
 
-Uri: https://static.wixstatic.com/media/b0be74_293d2507f16346378b76514f9995a7da~mv2.png/v1/fill/w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/botão2.png
-File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_293d2507f16346378b76514f9995a7da~mv2.png\v1\fill\w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\botão2.png
-Content Type: image/png
+
 
 Uri: https://static.wixstatic.com/media/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
 File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png\v1\fill\w_180,h_180,lg_1,usm_0.66_1.00_0.01\b0be74_2a6464f0f71a4f54b6677107d3b61280~mv2.png
@@ -278,9 +276,7 @@ Uri: https://static.wixstatic.com/media/b0be74_c9c2d5a315324f5ea23b30129524a443~
 File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png\v1\fill\w_100,h_56,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto\b0be74_c9c2d5a315324f5ea23b30129524a443~mv2.png
 Content Type: image/png
 
-Uri: https://static.wixstatic.com/media/b0be74_f212e539e68e472ab7f72035a39a9208~mv2.png/v1/fill/w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/botão1.png
-File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_f212e539e68e472ab7f72035a39a9208~mv2.png\v1\fill\w_102,h_23,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\botão1.png
-Content Type: image/png
+
 
 Uri: https://static.wixstatic.com/media/b0be74_f74cf1dfbee544f79c0ff7557dd3da0d~mv2.png/v1/fill/w_106,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/03_ go to jupiter.png
 File Name: C:\Downloaded Web Sites\www.bwedbox.io\media\b0be74_f74cf1dfbee544f79c0ff7557dd3da0d~mv2.png\v1\fill\w_106,h_15,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto\03_ go to jupiter.png

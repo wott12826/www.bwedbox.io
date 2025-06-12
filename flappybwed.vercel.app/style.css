@@ -1,0 +1,88 @@
+﻿body {
+    font-family: 'Squada One', cursive;
+    background-image: url('img/bg4.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    color: #ffffff;
+}
+
+.container {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    max-height: 80vh;
+    width: 90%;
+    max-width: 400px;
+}
+
+.game-title {
+    font-size: 2.5rem;
+    margin: 0.5rem 0;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.game-wrapper {
+    margin: 0.5rem 0;
+}
+
+#canvas {
+    border: 2px solid #ffffff;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+}
+
+.buy-button {
+    display: block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 0.5rem auto;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    width: 80%;
+    max-width: 300px;
+}
+
+.buy-button:hover {
+    background-color: #45a049;
+    transform: scale(1.1);
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-top: 0.5rem;
+}
+
+.social-link {
+    transition: transform 0.2s ease-in-out;
+}
+
+.social-link:hover {
+    transform: scale(1.1);
+}
+
+.social-logo {
+    width: 30px;
+    height: auto;
+    border-radius: 30%;
+}

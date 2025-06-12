@@ -1,0 +1,40 @@
+Uri: https://flappybwed.vercel.app/
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://flappybwed.vercel.app/game.js
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\game.js
+Content Type: application/javascript
+
+Uri: https://flappybwed.vercel.app/img/bg4.png
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\img\bg4.png
+Content Type: image/png
+
+Uri: https://flappybwed.vercel.app/img/favicon.png
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\img\favicon.png
+Content Type: image/png
+
+Uri: https://flappybwed.vercel.app/img/logos/dexscreener.png
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\img\logos\dexscreener.png
+Content Type: image/png
+
+Uri: https://flappybwed.vercel.app/img/logos/tg.png
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\img\logos\tg.png
+Content Type: image/png
+
+Uri: https://flappybwed.vercel.app/img/logos/xlogo.png
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\img\logos\xlogo.png
+Content Type: image/png
+
+Uri: https://flappybwed.vercel.app/style.css
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Squada+One&display=swap
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/squadaone/v19/BCasqZ8XsOrx4mcOk6MtWaA.ttf
+File Name: C:\Downloaded Web Sites\flappybwed.vercel.app\s\squadaone\v19\BCasqZ8XsOrx4mcOk6MtWaA.ttf
+Content Type: font/ttf
+
